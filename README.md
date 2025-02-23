@@ -1,1 +1,1 @@
-# Minor_Project
+This project helps us in analyzing the healthcare sector by using a dataset consisting of patients health record and analyzing what are the chances of the person getting a heart attack using different machine learning algorithm
